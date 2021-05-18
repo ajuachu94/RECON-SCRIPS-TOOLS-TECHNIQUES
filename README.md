@@ -1,2 +1,2 @@
 # RECON-SCRIPS-TOOLS-TECHNIQUES
-Very small recon scripts used for automating simple tasks wriiten in bash and python
+Small Recon Scripts developed using existing tools and techniques for target enumeration.
